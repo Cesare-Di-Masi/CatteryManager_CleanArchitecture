@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\presentation\\adoptionmanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|solutionrelative:presentation\\adoptionmanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\presentation\\addadoptionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|solutionrelative:presentation\\addadoptionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\presentation\\adoptermanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|solutionrelative:presentation\\adoptermanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\presentation\\addadopterwindows.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|solutionrelative:presentation\\addadopterwindows.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\presentation\\catmanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|solutionrelative:presentation\\catmanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\presentation\\catmanagerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|solutionrelative:presentation\\catmanagerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962FD5A4-1837-40A2-9366-14E0CC224923}|Infrastructure\\Infrastructure.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\infrastructure\\repositories\\jsoncatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962FD5A4-1837-40A2-9366-14E0CC224923}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\jsoncatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192BC29-55B3-474F-B568-819B95DCC923}|Application\\Application.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\application\\usecases\\catteryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192BC29-55B3-474F-B568-819B95DCC923}|Application\\Application.csproj|solutionrelative:application\\usecases\\catteryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBC2032-D4EA-4DCD-944B-0C0A36C9AC22}|Domain\\Domain.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\domain\\model\\entities\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBC2032-D4EA-4DCD-944B-0C0A36C9AC22}|Domain\\Domain.csproj|solutionrelative:domain\\model\\entities\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBC2032-D4EA-4DCD-944B-0C0A36C9AC22}|Domain\\Domain.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\domain\\model\\valueobjects\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBC2032-D4EA-4DCD-944B-0C0A36C9AC22}|Domain\\Domain.csproj|solutionrelative:domain\\model\\valueobjects\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\presentation\\addcatwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|solutionrelative:presentation\\addcatwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192BC29-55B3-474F-B568-819B95DCC923}|Application\\Application.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\application\\dto\\catdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192BC29-55B3-474F-B568-819B95DCC923}|Application\\Application.csproj|solutionrelative:application\\dto\\catdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|solutionrelative:presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|solutionrelative:presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962FD5A4-1837-40A2-9366-14E0CC224923}|Infrastructure\\Infrastructure.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\infrastructure\\mapper\\adopterpersistencemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962FD5A4-1837-40A2-9366-14E0CC224923}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mapper\\adopterpersistencemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962FD5A4-1837-40A2-9366-14E0CC224923}|Infrastructure\\Infrastructure.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\infrastructure\\dto\\adoptionpersistencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962FD5A4-1837-40A2-9366-14E0CC224923}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dto\\adoptionpersistencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\presentation\\addcatwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52D124E8-B0BC-4D5B-8B27-930B3CB3228E}|Presentation\\Presentation.csproj|solutionrelative:presentation\\addcatwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192BC29-55B3-474F-B568-819B95DCC923}|Application\\Application.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\application\\interfaces\\icatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192BC29-55B3-474F-B568-819B95DCC923}|Application\\Application.csproj|solutionrelative:application\\interfaces\\icatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962FD5A4-1837-40A2-9366-14E0CC224923}|Infrastructure\\Infrastructure.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\infrastructure\\repositories\\jsonadopterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962FD5A4-1837-40A2-9366-14E0CC224923}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\jsonadopterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192BC29-55B3-474F-B568-819B95DCC923}|Application\\Application.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\application\\interfaces\\iadoptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192BC29-55B3-474F-B568-819B95DCC923}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iadoptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B192BC29-55B3-474F-B568-819B95DCC923}|Application\\Application.csproj|c:\\users\\cesare\\desktop\\mycodingassets\\c#\\school\\a.s.2025-2026\\homework\\cattery_ca\\application\\interfaces\\iadopterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B192BC29-55B3-474F-B568-819B95DCC923}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iadopterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdoptionManagerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\AdoptionManagerWindow.xaml",
+              "RelativeDocumentMoniker": "Presentation\\AdoptionManagerWindow.xaml",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\AdoptionManagerWindow.xaml",
+              "RelativeToolTip": "Presentation\\AdoptionManagerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T16:41:24.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddAdoptionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\AddAdoptionWindow.xaml",
+              "RelativeDocumentMoniker": "Presentation\\AddAdoptionWindow.xaml",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\AddAdoptionWindow.xaml",
+              "RelativeToolTip": "Presentation\\AddAdoptionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T16:41:03.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdopterManagerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\AdopterManagerWindow.xaml",
+              "RelativeDocumentMoniker": "Presentation\\AdopterManagerWindow.xaml",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\AdopterManagerWindow.xaml",
+              "RelativeToolTip": "Presentation\\AdopterManagerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T16:40:48.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddAdopterWindows.xaml",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\AddAdopterWindows.xaml",
+              "RelativeDocumentMoniker": "Presentation\\AddAdopterWindows.xaml",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\AddAdopterWindows.xaml",
+              "RelativeToolTip": "Presentation\\AddAdopterWindows.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T16:40:22.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Breed.cs",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Domain\\Model\\ValueObjects\\Breed.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\ValueObjects\\Breed.cs",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Domain\\Model\\ValueObjects\\Breed.cs",
+              "RelativeToolTip": "Domain\\Model\\ValueObjects\\Breed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:08:35.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CatteryService.cs",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Application\\UseCases\\CatteryService.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\CatteryService.cs",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Application\\UseCases\\CatteryService.cs",
+              "RelativeToolTip": "Application\\UseCases\\CatteryService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:47:29.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddCatWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\AddCatWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Presentation\\AddCatWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\AddCatWindow.xaml.cs",
+              "RelativeToolTip": "Presentation\\AddCatWindow.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAewEQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:10:09.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatManagerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\CatManagerWindow.xaml",
+              "RelativeDocumentMoniker": "Presentation\\CatManagerWindow.xaml",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\CatManagerWindow.xaml",
+              "RelativeToolTip": "Presentation\\CatManagerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T13:15:13.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CatManagerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\CatManagerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Presentation\\CatManagerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\CatManagerWindow.xaml.cs",
+              "RelativeToolTip": "Presentation\\CatManagerWindow.xaml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwEoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:18:38.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdopterPersistenceMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Infrastructure\\Mapper\\AdopterPersistenceMapper.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Mapper\\AdopterPersistenceMapper.cs",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Infrastructure\\Mapper\\AdopterPersistenceMapper.cs",
+              "RelativeToolTip": "Infrastructure\\Mapper\\AdopterPersistenceMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:15:50.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JsonCatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Infrastructure\\Repositories\\JsonCatRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\JsonCatRepository.cs",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Infrastructure\\Repositories\\JsonCatRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\JsonCatRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:44:29.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CatDto.cs",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Application\\Dto\\CatDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\CatDto.cs",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Application\\Dto\\CatDto.cs",
+              "RelativeToolTip": "Application\\Dto\\CatDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:15:36.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Domain\\Model\\Entities\\Cat.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Entities\\Cat.cs",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Domain\\Model\\Entities\\Cat.cs",
+              "RelativeToolTip": "Domain\\Model\\Entities\\Cat.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAnwFUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:10:26.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Presentation\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Presentation\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:42:51.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Presentation\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\MainWindow.xaml",
+              "RelativeToolTip": "Presentation\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T16:25:45.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdoptionPersistenceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Infrastructure\\Dto\\AdoptionPersistenceDto.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Dto\\AdoptionPersistenceDto.cs",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Infrastructure\\Dto\\AdoptionPersistenceDto.cs",
+              "RelativeToolTip": "Infrastructure\\Dto\\AdoptionPersistenceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:15:07.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddCatWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\AddCatWindow.xaml",
+              "RelativeDocumentMoniker": "Presentation\\AddCatWindow.xaml",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Presentation\\AddCatWindow.xaml",
+              "RelativeToolTip": "Presentation\\AddCatWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T15:10:01.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Application\\Interfaces\\ICatRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ICatRepository.cs",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Application\\Interfaces\\ICatRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ICatRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:47:18.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JsonAdopterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Infrastructure\\Repositories\\JsonAdopterRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\JsonAdopterRepository.cs",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Infrastructure\\Repositories\\JsonAdopterRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\JsonAdopterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:18:00.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAdoptionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Application\\Interfaces\\IAdoptionRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IAdoptionRepository.cs",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Application\\Interfaces\\IAdoptionRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IAdoptionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:47:19.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAdopterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Application\\Interfaces\\IAdopterRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IAdopterRepository.cs",
+              "ToolTip": "C:\\Users\\Cesare\\Desktop\\MyCodingAssets\\C#\\School\\A.S.2025-2026\\Homework\\Cattery_CA\\Application\\Interfaces\\IAdopterRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IAdopterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:47:13.637Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1547,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "18575n2025IZH",
+    "name": "Aki",
+    "breed": "Ginger",
+    "isMale": true,
+    "arrivingDate": "2025-11-10",
+    "birthdate": "2025-11-06",
+    "description": "Fat"
+  },
+  {
+    "id": "70526g2025NGC",
+    "name": "Chicca",
+    "breed": "White",
+    "isMale": false,
+    "arrivingDate": "2025-06-10",
+    "birthdate": "2006-10-05",
+    "description": "A really beautiful,samrt cat"
+  },
+  {
+    "id": "70551l2019UFE",
+    "name": "Pino",
+    "breed": "Black and brown",
+    "isMale": true,
+    "arrivingDate": "2019-07-02",
+    "birthdate": "2019-07-01",
+    "description": "Imprinted cat"
+  }
+]

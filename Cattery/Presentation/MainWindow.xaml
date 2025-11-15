@@ -1,0 +1,73 @@
+﻿<Window x:Class="Presentation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="#2B2B2B">
+    <Window.Resources>
+        <Style TargetType="MenuItem">
+            <Setter Property="Foreground" Value="Black" />
+            <Setter Property="FontWeight" Value="Bold" />
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="100" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!-- Rettangolo Verde con Menu -->
+        <Border Grid.Row="0" Background="#2ECC71" Padding="10"
+                CornerRadius="0,0,6,6">
+            <DockPanel>
+                <Menu DockPanel.Dock="Top" Background="#27AE60" Foreground="Black" FontWeight="Bold">
+                    <MenuItem Header="Cats">
+                        <MenuItem Header="Add" Click="BtnMenuCat_Add_Click" />
+                        <MenuItem Header="View All" Click="BtnMenuCat_Manage_Click" />
+                    </MenuItem>
+                    <MenuItem Header="_Adoption">
+                        <MenuItem Header="Adopt" />
+                        <MenuItem Header="View All" />
+                    </MenuItem>
+                    <MenuItem Header="_Adopters">
+                        <MenuItem Header="Register" />
+                        <MenuItem Header="View All" />
+                    </MenuItem>
+                </Menu>
+            </DockPanel>
+        </Border>
+
+        <!-- Titolo -->
+        <TextBlock Grid.Row="1" Text="Cattery Manager"
+           Foreground="White"
+           FontSize="42"
+           FontWeight="Bold"
+           TextAlignment="Center"
+           VerticalAlignment="Center">
+            <TextBlock.Effect>
+                <DropShadowEffect Color="Black" BlurRadius="10" ShadowDepth="2" />
+            </TextBlock.Effect>
+        </TextBlock>
+
+        <!-- Corpo -->
+        <StackPanel Grid.Row="2" Margin="40,20,0,0">
+            <StackPanel Orientation="Horizontal" Margin="0,10">
+                <TextBlock Text="Number of Cats:" FontSize="18" Foreground="White" Width="180" />
+                <TextBlock x:Name="TxTBlockCatCount" Text="" FontSize="18" Foreground="White" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,10">
+                <TextBlock Text="Male Cats:" FontSize="18" Foreground="White" Width="180" />
+                <TextBlock x:Name="TxTBlockMalesCatCount"  Text="" FontSize="18" Foreground="White" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,10">
+                <TextBlock Text="Female Cats:" FontSize="18" Foreground="White" Width="180" />
+                <TextBlock x:Name="TxTBlockFemalesCatCount" Text="" FontSize="18" Foreground="White" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
